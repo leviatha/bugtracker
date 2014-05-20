@@ -1,7 +1,5 @@
-BugTracker
+BugTracker Dream WoW 4.3.4
 ==========
-
-Bugtracker Dream WoW
 
 Normativa de posteo:
 
@@ -9,7 +7,11 @@ Normativa de posteo:
 
 2.- Los fallos repetidos se cerrarán automaticamente. Busquen antes de postear algo que pueda estar repetido.
 
-3.- No se admiten fallos personales con los PJ como "mi pj se ha atascado" o "no puedo completar esta quest". Si se admitirán del tipo "Spell no funciona", "quest no funciona", etc.
+3.- Solo un bug por reporte.
 
-4.- Un mal uso del bugtracker podrá conllevar a la expulsión del usuario del mismo (con la cuenta de github creada previamente para publicar).
+4.- Deben colocar la etiqueta para el tipo de bug que esten documentando.
+
+5.- No se admiten fallos personales con los PJ como "mi pj se ha atascado" o "no puedo completar esta quest". Si se admitirán del tipo "Spell no funciona", "quest no funciona", etc.
+
+6.- Un mal uso del bugtracker podrá conllevar a la expulsión del usuario del mismo (con la cuenta de github creada previamente para publicar).
 
