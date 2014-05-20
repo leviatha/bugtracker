@@ -1,4 +1,4 @@
-# ![logo](https://avatars0.githubusercontent.com/u/3749800?s=400) BugTracker Dream WoW 4.3.4
+# ![logo](https://avatars2.githubusercontent.com/u/3749800?s=460) BugTracker Dream WoW 4.3.4
 ==========
 
 ## Normativa de posteo
